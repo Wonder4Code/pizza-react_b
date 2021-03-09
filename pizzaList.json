@@ -1,0 +1,179 @@
+[
+  {
+    "_id": "6046d33bf91974d1b9eebb78",
+    "id": 1,
+    "name": "Сырная",
+    "image": "cheese",
+    "dough": [
+      {
+        "id": 1,
+        "title": "тонкое",
+        "cost": 0,
+        "chosen": true,
+        "enabled": true
+      },
+      {
+        "id": 2,
+        "title": "традиционное",
+        "cost": 10,
+        "chosen": false,
+        "enabled": true
+      }
+    ],
+    "size": [
+      {
+        "id": 1,
+        "title": "26 см.",
+        "cost": 400,
+        "chosen": true,
+        "enabled": true
+      },
+      {
+        "id": 2,
+        "title": "30см.",
+        "cost": 600,
+        "chosen": false,
+        "enabled": true
+      },
+      {
+        "id": 3,
+        "title": "40см.",
+        "cost": 800,
+        "chosen": false,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Чизбургер-пицца",
+    "image": "cheeseburger",
+    "dough": [
+      {
+        "id": 1,
+        "title": "тонкое",
+        "cost": 0,
+        "chosen": true,
+        "enabled": true
+      },
+      {
+        "id": 2,
+        "title": "традиционное",
+        "cost": 10,
+        "chosen": false,
+        "enabled": true
+      }
+    ],
+    "size": [
+      {
+        "id": 1,
+        "title": "26см.",
+        "cost": 420,
+        "chosen": true,
+        "enabled": true
+      },
+      {
+        "id": 2,
+        "title": "30см.",
+        "cost": 620,
+        "chosen": false,
+        "enabled": true
+      },
+      {
+        "id": 3,
+        "title": "40см.",
+        "cost": 850,
+        "chosen": false,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Креветки по-азиатски",
+    "image": "shrimp",
+    "dough": [
+      {
+        "id": 1,
+        "title": "тонкое",
+        "cost": 0,
+        "chosen": true,
+        "enabled": true
+      },
+      {
+        "id": 2,
+        "title": "традиционное",
+        "cost": 10,
+        "chosen": false,
+        "enabled": true
+      }
+    ],
+    "size": [
+      {
+        "id": 1,
+        "title": "26см.",
+        "cost": 550,
+        "chosen": true,
+        "enabled": true
+      },
+      {
+        "id": 2,
+        "title": "30см.",
+        "cost": 700,
+        "chosen": false,
+        "enabled": true
+      },
+      {
+        "id": 3,
+        "title": "40см.",
+        "cost": 980,
+        "chosen": false,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Сырный цыпленок",
+    "image": "chicken",
+    "dough": [
+      {
+        "id": 1,
+        "title": "тонкое",
+        "cost": 0,
+        "chosen": true,
+        "enabled": true
+      },
+      {
+        "id": 2,
+        "title": "традиционное",
+        "cost": 10,
+        "chosen": false,
+        "enabled": true
+      }
+    ],
+    "size": [
+      {
+        "id": 1,
+        "title": "26см.",
+        "cost": 420,
+        "chosen": true,
+        "enabled": true
+      },
+      {
+        "id": 2,
+        "title": "30см.",
+        "cost": 620,
+        "chosen": false,
+        "enabled": true
+      },
+      {
+        "id": 3,
+        "title": "40см.",
+        "cost": 850,
+        "chosen": false,
+        "enabled": true
+      }
+    ]
+  }
+]
